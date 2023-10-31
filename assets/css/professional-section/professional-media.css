@@ -1,0 +1,16 @@
+.professional__media{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+
+    background-color: none;
+
+    margin: 0px;
+    margin-top: 15.0vh;
+    padding: 0px;
+
+    
+
+}

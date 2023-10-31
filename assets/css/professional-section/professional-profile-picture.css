@@ -1,0 +1,16 @@
+@import url(../default/base.css);
+
+.professional__profile-picture{
+    width: 40vw;
+    max-width: 960px;
+    height: auto;
+
+    border: 6px solid var(--color-lion);
+    border-radius: 50%;
+
+    flex-grow: 2;
+    flex-shrink: 2;
+
+    margin-left: 5vw;
+    margin-right: 5vw;
+};

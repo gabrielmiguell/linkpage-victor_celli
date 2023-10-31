@@ -1,0 +1,22 @@
+/*Import fonts
+*   
+*   Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+:root{
+
+    --primary-text-color: #FFFFFF;
+    --color-eerie: #21241F;
+    --color-coyote: #80653C;
+    --color-lion: #C1A06E;
+    --color-night: #020C0B;
+    --color-black: #000A0A;
+
+    
+
+    /*Fonts*/
+    --font-roboto: 'Roboto', sans-serif;
+    
+
+}

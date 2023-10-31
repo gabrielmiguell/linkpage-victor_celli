@@ -1,0 +1,18 @@
+@import url(../default/base.css);
+
+body{
+    width: 100vw;
+    height: 100vh;
+
+    color: var(--primary-text-color);
+
+    font-family: var(--font-roboto);
+
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+
+}

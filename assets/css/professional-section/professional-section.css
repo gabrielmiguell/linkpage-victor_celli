@@ -1,0 +1,15 @@
+@import url(../default/base.css);
+
+.professional__section{
+    background: none;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    justify-content: stretch;
+    align-items:center;
+
+
+
+}

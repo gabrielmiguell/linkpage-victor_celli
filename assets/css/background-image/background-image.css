@@ -1,0 +1,23 @@
+.background__image{
+    background-image: url("../../imagem/jpg/background6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    background-attachment:fixed;
+    background-color: none;
+
+
+    filter:blur(4.1px);
+    opacity: 0.95;
+    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    z-index: -1;
+
+
+   width: 100vw;
+   min-height: 100vh;
+   max-height: 5413px;
+}

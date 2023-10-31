@@ -1,0 +1,15 @@
+.footer__contain{
+    background: var(--color-night);
+    width: 100vw;
+    height: 5vh;
+
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
