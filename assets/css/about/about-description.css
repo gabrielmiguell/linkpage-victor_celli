@@ -1,9 +1,9 @@
 .about__description{
     color: var(--primary-text-color);
-    font-size: 1.1rem;
+    font-size: 4.0vw;
     font-weight: 400;
     text-align: center;
-    line-height: 1.5rem;
+    line-height: 4.2vw;
 
     padding: 0px;
     margin: 0.5rem 2.5rem 0.5rem 2.5rem ;
